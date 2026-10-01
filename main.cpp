@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <locale>
 int main() {
     // Set the locale to Ukrainian UTF-8
     /*
