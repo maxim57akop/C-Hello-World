@@ -2,7 +2,7 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: clang сборка активного файла",
+            "label": "C/C++: clang++ сборка активного файла",
             "command": "/usr/bin/clang++",
             "args": [
                 "-fcolor-diagnostics",
